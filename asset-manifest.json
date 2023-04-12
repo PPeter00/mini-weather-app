@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-weather-app/static/css/main.6e8b2821.css",
+    "main.js": "/mini-weather-app/static/js/main.4e440ea1.js",
+    "static/js/787.deec5551.chunk.js": "/mini-weather-app/static/js/787.deec5551.chunk.js",
+    "index.html": "/mini-weather-app/index.html",
+    "main.6e8b2821.css.map": "/mini-weather-app/static/css/main.6e8b2821.css.map",
+    "main.4e440ea1.js.map": "/mini-weather-app/static/js/main.4e440ea1.js.map",
+    "787.deec5551.chunk.js.map": "/mini-weather-app/static/js/787.deec5551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e8b2821.css",
+    "static/js/main.4e440ea1.js"
+  ]
+}
