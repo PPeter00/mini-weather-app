@@ -75,12 +75,12 @@ function App() {
 
   return (
     <div className="bg-gray-800 h-screen grid place-items-center">
-      <div className='bg-white w-96 p-4 rounded-md'>
+      <div className='bg-white w-96 p-2 rounded-md'>
         <div className='flex items-center justify-between'>
          <input 
          type="text" 
          ref={inputRef}
-         placeholder='Enter Your location' className='text-xl border-b p-1 border-gray-200 font-semibold uppercase flex-1 mr-1'/>
+         placeholder='Enter Your location' className='text-xl border-b p-1 border-gray-200 font-semibold uppercase flex-1'/>
          <button onClick={fetchWeather}>
             <img src="https://cdn-icons-png.flaticon.com/512/758/758651.png" alt="" className='w-8'/>
          </button>
