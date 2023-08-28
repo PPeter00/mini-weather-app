@@ -82,7 +82,7 @@ function App() {
          ref={inputRef}
          placeholder='Enter Your location' className='text-xl border-b border-gray-200 font-semibold uppercase'/>
          <button onClick={fetchWeather}>
-            <img src="https://cdn-icons-png.flaticon.com/512/758/758651.png" alt="" className='w-8'/>
+            <img src="https://cdn-icons-png.flaticon.com/512/758/758651.png" alt="" className='w-10'/>
          </button>
         </div>
         <div className={`duration-300 delay-75 overflow-hidden ${showWeather ? "h-[27rem]" : "h-0"}`}>
