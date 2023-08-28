@@ -80,7 +80,7 @@ function App() {
          <input 
          type="text" 
          ref={inputRef}
-         placeholder='Enter Your location' className='text-xl border-b border-gray-200 font-semibold uppercase flex-1'/>
+         placeholder='Enter Your location' className='text-xl border-b border-gray-200 font-semibold uppercase'/>
          <button onClick={fetchWeather}>
             <img src="https://cdn-icons-png.flaticon.com/512/758/758651.png" alt="" className='w-8'/>
          </button>
